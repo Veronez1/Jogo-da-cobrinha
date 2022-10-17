@@ -15,10 +15,13 @@ RIGHT = 1
 DOWN = 2
 LEFT = 3
 
+# Tela
+# Matriz 600 por 600 pixels
 pygame.init()
 screen = pygame.display.set_mode((600, 600))
 pygame.display.set_caption('Snake')
 
+# 
 snake = [(200, 200), (210, 200), (220,200)]
 snake_skin = pygame.Surface((10,10))
 snake_skin.fill((255,255,255)) #White
@@ -34,6 +37,7 @@ clock = pygame.time.Clock()
 font = pygame.font.Font('freesansbold.ttf', 18)
 score = 0
 
+# Fim de jogo
 game_over = False
 while not game_over:
     clock.tick(10)
