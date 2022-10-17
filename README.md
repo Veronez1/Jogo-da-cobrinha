@@ -7,4 +7,4 @@
 <h3>Rode o jogo com: <code>python JogoDaCobrinha.py</code></h3>
 
 
-![Jogo](https://user-images.githubusercontent.com/87334467/196014385-23954b9c-54cd-45f6-865b-61dc6240b854.png)
+![Captura de tela 2022-10-17 201003](https://user-images.githubusercontent.com/87334467/196300259-ba6c1c6e-0cb8-45c3-97b1-388ef2911dbb.png)
